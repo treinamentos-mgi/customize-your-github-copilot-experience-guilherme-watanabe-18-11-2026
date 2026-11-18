@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Integrating FastAPI and SQLite",
+      "description": "Add persistent SQLite storage to a FastAPI books API using parameterized SQL and CRUD operations.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
